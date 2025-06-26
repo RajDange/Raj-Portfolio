@@ -21,7 +21,7 @@ const HeroSection = () => {
       <div className="relative z-20 container mx-auto px-4 md:px-1 flex">
         <div className="max-w-3xl pt-8 md:pt-16 lg:pt-40">
           <h1 className="text-5xl md:text-7xl lg:text-7xl font-bold font-headline leading-tight">
-            Data Engineers
+            Data Engineer
           </h1>
           <p className="mt-4 text-lg md:text-l text-gray-200 font-body max-w-xl">
           I’m a Data Engineer with practical experience in building robust, scalable data solutions using both cloud-native and enterprise-grade tools.
