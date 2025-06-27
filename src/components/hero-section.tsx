@@ -20,7 +20,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-black/0 z-10" />
       <div className="relative z-20 container mx-auto px-4 md:px-1 flex">
         <div className="max-w-3xl pt-8 md:pt-16 lg:pt-40">
-          <h1 className="text-5xl md:text-7xl lg:text-7xl font-bold font-headline leading-tight">
+          <h1 className="text-5xl md:text-7xl lg:text-6xl font-bold font-headline leading-tight">
             Data Professional
           </h1>
           <p className="mt-4 text-lg md:text-l text-gray-200 font-body max-w-xl">
